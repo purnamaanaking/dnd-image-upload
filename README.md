@@ -1,1 +1,1 @@
-# simple-dnd-file-upload
+# Simple Drag and Drop Image Upload
