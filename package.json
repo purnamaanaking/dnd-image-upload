@@ -1,8 +1,8 @@
 {
-  "name": "simple-dnd-file-upload",
+  "name": "simple-drag-and-drop-image-upload",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/purnamaanaking/simple-dnd-file-upload.git",
+  "repository": "https://github.com/purnamaanaking/simple-drag-and-drop-image-upload.git",
   "author": "Purnama Anaking <purnama.anaking@gmail.com>",
   "license": "MIT",
   "dependencies": {
