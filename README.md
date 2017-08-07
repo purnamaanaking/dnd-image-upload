@@ -4,6 +4,7 @@ A simple trick example how to create drag and drop image upload feature. Just us
 # Feature
 - Use ordinary html tag and method form to upload the image. `enctype="multipart/form-data"`
 - Mask `<input type="file">` tag with wider area using CSS to be a drag drop area.
+- Use simple javascript for drag & drop experience.
 - Thats it.
 
 ## Download
