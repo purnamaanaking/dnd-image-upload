@@ -18,7 +18,7 @@ yarn install
 ```
 Execute demo file.
 ```bash
-start index.html
+open index.html
 ```
 
 ## License
