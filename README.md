@@ -7,7 +7,7 @@ A simple trick example how to create drag and drop image upload feature. Just us
 - Use simple javascript for drag & drop experience.
 - Thats it.
 
-## Download
+## Download then Try It
 Clone the repository.
 ```bash
 git clone https://github.com/purnamaanaking/simple-drag-and-drop-image-upload.git
