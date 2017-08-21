@@ -1,5 +1,5 @@
 # Simple Drag and Drop Image Upload
-A simple trick example how to create drag and drop image upload feature. Just using HTML, CSS, jQuery and Simple Javascript.
+A simple trick example how to create drag and drop image upload feature. Just using HTML, CSS, jQuery and Simple Javascript. Not using AJAX request to upload the image.
 
 # Feature
 - Not using AJAX request to upload the image, just using ordinary html tag and method form to upload the image. `enctype="multipart/form-data"`
