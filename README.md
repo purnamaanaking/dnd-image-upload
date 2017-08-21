@@ -20,6 +20,3 @@ Execute demo file.
 ```bash
 open index.html
 ```
-
-## License
-MIT
